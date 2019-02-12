@@ -5,7 +5,6 @@
  * Date: 10/02/2019
  * Time: 11:19 AM
  */
-  session_start();
   include ("dbconnect.php");
 ?>
 <!doctype html>
@@ -30,15 +29,27 @@
   <!-- Header -->
   <?php include ("header.php"); ?>
   <!-- Main -->
-  <?php
-
-  if (!isset($_GET['page'])){
-    include ("main.php");
-  }else{
-    $page= $_GET['page'];
-    include ("$page.php");
-  }
-  ?>
+  <!-- Page Content -->
+  <div class="container">
+    <div class="card border-0 shadow my-5">
+      <div class="card-body p-5">
+        <?php
+          if (!isset($_GET['c']) && !isset($_GET['a'])){
+            include ("main.php");
+          }
+          if(isset($_GET['c']) && !isset($_GET['a'])){
+            $c= $_GET['c'];
+            include ("$c.php");
+          }
+          if (isset($_GET['c']) && isset($_GET['a'])){
+            $c= $_GET['c'];
+            $a= $_GET['a'];
+            include ("$c/$a.php");
+          }
+        ?>
+      </div>
+    </div>
+  </div>
   <!-- Footer -->
   <?php include ("footer.php"); ?>
 </body>

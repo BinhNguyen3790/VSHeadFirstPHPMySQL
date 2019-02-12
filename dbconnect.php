@@ -9,5 +9,6 @@
   $user = "root";
   $password = "";
   $database = "vsheadfirstphpmysql";
-  $dbc = mysqli_connect($host, $user, $password, $database);
+  $dbc = mysqli_connect($host, $user, $password, $database)
+    or die('error connect database');
 ?>

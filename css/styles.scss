@@ -5,8 +5,12 @@
   padding:0px;
 }
 body {
-  background-image: url("../images/bg.jpg");
   font-family: "Dancing Script", cursive !important;
+  background: url(../images/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
   header{
 
   }
@@ -17,23 +21,9 @@ body {
 
   }
 }
-
-.container{
-  .navbar{
-    .navbar-brand{
-      img{
-        height: 30px;
-      }
-    }
-  }
-  .content{
-
-  }
-  .footer{
-
-  }
+form label {
+  display: inline-block;
+  width: 225px;
+  font-weight: bold;
 }
 
-.card:hover {
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-}
