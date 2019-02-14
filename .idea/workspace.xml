@@ -2,29 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e22e4e4-1ffd-49c1-8a41-e81827c76ba9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aliens/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aliens/report.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/blankface.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/elvislogo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fang.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makemeelvis/addemail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makemeelvis/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makemeelvis/removeemail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makemeelvis/sendemail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aliens.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guitarwars/addscore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guitarwars/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guitarwars/approvescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guitarwars/appvars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guitarwars/authorize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guitarwars/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guitarwars/removescore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/belitasscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/biffsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jacobsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jacobsscore2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jeanpaulsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kennysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/leddysscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nevilsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pacosscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pezsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/phizsscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tbonesscore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/unverified.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/6176550363a8ee26ee9d1232ba9c20235837c65e/styles.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/6176550363a8ee26ee9d1232ba9c20235837c65e/styles.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbconnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/dbconnect.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/elvis.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/elvis.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/main.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/services.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,28 +39,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/makemeelvis/addemail.php">
+        <entry file="file://$PROJECT_DIR$/guitarwars/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="94" />
+            <state relative-caret-position="714">
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+              <folding>
+                <element signature="e#6#90#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/makemeelvis/sendemail.php">
+        <entry file="file://$PROJECT_DIR$/guitarwars/approvescore.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="65" />
+            <state relative-caret-position="1071">
+              <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/makemeelvis/removeemail.php">
+        <entry file="file://$PROJECT_DIR$/guitarwars/removescore.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="294">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="e#44#48#0" expanded="true" />
+                <element signature="e#48#52#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,7 +87,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/css/styles.scss" />
         <option value="$PROJECT_DIR$/aliens.php" />
         <option value="$PROJECT_DIR$/report.php" />
         <option value="$PROJECT_DIR$/aliens/aliens.php" />
@@ -88,12 +98,20 @@
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/aliens/index.php" />
-        <option value="$PROJECT_DIR$/main.php" />
         <option value="$PROJECT_DIR$/aliens/report.php" />
         <option value="$PROJECT_DIR$/makemeelvis/index.php" />
         <option value="$PROJECT_DIR$/makemeelvis/addemail.php" />
         <option value="$PROJECT_DIR$/makemeelvis/sendemail.php" />
         <option value="$PROJECT_DIR$/makemeelvis/removeemail.php" />
+        <option value="$PROJECT_DIR$/main.php" />
+        <option value="$PROJECT_DIR$/guitarwars/appvars.php" />
+        <option value="$PROJECT_DIR$/css/styles.scss" />
+        <option value="$PROJECT_DIR$/guitarwars/addscore.php" />
+        <option value="$PROJECT_DIR$/guitarwars/authorize.php" />
+        <option value="$PROJECT_DIR$/guitarwars/index.php" />
+        <option value="$PROJECT_DIR$/guitarwars/admin.php" />
+        <option value="$PROJECT_DIR$/guitarwars/approvescore.php" />
+        <option value="$PROJECT_DIR$/guitarwars/removescore.php" />
       </list>
     </option>
   </component>
@@ -119,11 +137,6 @@
               <item name="VSHeadFirstPHPMySQL" type="b2602c69:ProjectViewProjectNode" />
               <item name="VSHeadFirstPHPMySQL" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="VSHeadFirstPHPMySQL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VSHeadFirstPHPMySQL" type="462c0819:PsiDirectoryNode" />
-              <item name="makemeelvis" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -132,17 +145,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Documents/Head-First-PHP-MySQL-Code-master/Head-First-PHP-MySQL-Code-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Project\VSHeadFirstPHPMySQL\aliens" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Project\VSHeadFirstPHPMySQL\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\VSHeadFirstPHPMySQL\aliens" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -169,7 +182,10 @@
       <updated>1549772167386</updated>
       <workItem from="1549772169025" duration="10047000" />
       <workItem from="1549848266487" duration="7798000" />
-      <workItem from="1549934773548" duration="20567000" />
+      <workItem from="1549934773548" duration="20691000" />
+      <workItem from="1549974475807" duration="10000" />
+      <workItem from="1550020532629" duration="9440000" />
+      <workItem from="1550112434845" duration="3122000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1549772530167</created>
@@ -189,14 +205,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38412000" />
+    <option name="totallyTimeSpent" value="51108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14674735" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15355521" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -232,13 +247,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -257,13 +265,6 @@
             <element signature="e#6#90#0#PHP" expanded="true" />
             <element signature="n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -321,18 +322,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="e#6#90#0#PHP" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aliens/report.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -349,22 +338,115 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/makemeelvis/addemail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="94" />
+        <state relative-caret-position="714">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="94" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/makemeelvis/sendemail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="65" />
+        <state relative-caret-position="1197">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/makemeelvis/removeemail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="462">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="72" column="24" lean-forward="true" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+          <folding>
+            <element signature="e#6#90#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guitarwars/appvars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guitarwars/addscore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+          <folding>
+            <element signature="e#23#27#0" expanded="true" />
+            <element signature="e#27#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guitarwars/authorize.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guitarwars/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guitarwars/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="e#6#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guitarwars/approvescore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guitarwars/removescore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#44#48#0" expanded="true" />
+            <element signature="e#48#52#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

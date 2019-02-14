@@ -16,4 +16,22 @@ form label {
   width: 225px;
   font-weight: bold; }
 
+.error {
+  font-weight: bold;
+  color: #FF0000; }
+
+.topscoreheader {
+  text-align: center;
+  font-size: 200%;
+  background-color: #36407F;
+  color: #FFFFFF; }
+
+.score {
+  font-size: 150%;
+  color: #36407F; }
+
+.scoreinfo {
+  vertical-align: top;
+  padding-right: 15px; }
+
 /*# sourceMappingURL=styles.css.map */

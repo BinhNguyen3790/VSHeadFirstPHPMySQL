@@ -46,6 +46,26 @@
       </div>
     </div>
   </div>
+  <div class="col-lg-6 mb-4">
+    <div class="card h-100">
+      <a href="index.php?c=guitarwars&a=index"><img class="card-img-top" src="images/guitar.jpg" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="index.php?c=guitarwars&a=index">Guitar Wars</a>
+        </h4>
+        <p class="card-text">
+          Don't believe the hype...about databases, that is. Sure,
+          they work wonders for storing all kinds of data involving text,
+          but what about binary data? You know, stuff like JPEG images and PDF documents.
+          Does it really make sense to store all those pictures of your rare guitar pick collection
+          in a database table? Usually not. That kind of data is typically stored in files,
+          and we'll leave it in files. But it's entirely possible to have your virtual cake
+          and eat it too—this chapter reveals that you can use files and databases together to
+          build PHP applications that are awash in binary data
+        </p>
+      </div>
+    </div>
+  </div>
 </div>
 <!-- /.row -->
 <!-- Pagination -->
